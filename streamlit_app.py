@@ -72,7 +72,7 @@ df = load_data()
 st.title("🏗️ Construction Project Invoice Dashboard")
 
 st.caption(
-    "Interactive demonstration dashboard using simulated construction-project data."
+    "Patrick Lynch's Interactive demonstration dashboard using simulated construction-project data."
 )
 
 
