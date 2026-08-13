@@ -1,0 +1,20 @@
+Fictional construction-project invoice dataset
+================================================
+Rows: 288
+Period: January 2023 through December 2028
+Prime contractor: E-7 (fictional)
+Subcontractors: Abrippo, Bopendous, Chabnar, Daptis
+
+Each row represents one monthly invoice submitted by E-7 to a subcontractor.
+The Status field is intentionally mixed: most invoices are Paid, while some are Outstanding.
+Amounts, dates, and payment timing are simulated and have no connection to real projects.
+
+Suggested dashboard visuals:
+- KPI cards: total invoiced, total paid, outstanding balance, invoice count
+- Monthly invoiced vs. paid trend
+- Invoice amount by vendor
+- Outstanding balance by vendor
+- Paid vs. outstanding donut/bar chart
+- Quarterly or annual spending trend
+- Table with invoice details and filters
+- Vendor and year/month slicers
